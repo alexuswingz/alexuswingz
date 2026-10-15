@@ -305,7 +305,7 @@ Open to senior and lead full-stack roles, remote-first. Based in the Philippines
 
 <p>
   <a href="mailto:alexuskarljoaquin@gmail.com"><img src="https://img.shields.io/badge/alexuskarljoaquin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://alexuskarljoaquin.com"><img src="https://img.shields.io/badge/alexuswingz.github.io-0b0d0c?style=for-the-badge&logo=googlechrome&logoColor=8FE6AE" alt="Portfolio"></a>
+  <a href="https://alexuskarljoaquin.com"><img src="https://img.shields.io/badge/alexuskarljoaquin.com-0b0d0c?style=for-the-badge&logo=googlechrome&logoColor=8FE6AE" alt="Portfolio"></a>
   <a href="https://alexuskarljoaquin.com/assets/Alexus_Karl_Joaquin_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-8FE6AE?style=for-the-badge&logo=readdotcv&logoColor=0b0d0c" alt="CV"></a>
 </p>
 

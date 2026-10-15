@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://alexuskarljoaquin.com"><img src="https://img.shields.io/badge/Portfolio_%26_live_demos-alexuskarljoaquin.com-0b0d0c?style=for-the-badge&logo=googlechrome&logoColor=8FE6AE" alt="Portfolio and live demos"></a>
   <a href="https://apps.apple.com/app/id6789244062"><img src="https://img.shields.io/badge/App_Store-Cashn't-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Cashn't on the App Store"></a>
+  <a href="https://www.linkedin.com/in/alexuskarljoaquin"><img src="https://img.shields.io/badge/LinkedIn-alexuskarljoaquin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://alexuskarljoaquin.com/assets/Alexus_Karl_Joaquin_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-8FE6AE?style=for-the-badge&logo=readdotcv&logoColor=0b0d0c" alt="CV"></a>
   <a href="mailto:alexuskarljoaquin@gmail.com"><img src="https://img.shields.io/badge/Email-alexuskarljoaquin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>

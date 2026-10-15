@@ -1,17 +1,17 @@
 <p align="center">
-  <a href="https://alexuswingz.github.io"><img src="assets/header.svg" alt="Alexus Karl Joaquin — Senior Full Stack Lead Engineer" width="100%"></a>
+  <a href="https://alexuskarljoaquin.com"><img src="assets/header.svg" alt="Alexus Karl Joaquin — Senior Full Stack Lead Engineer" width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://alexuswingz.github.io"><img src="https://img.shields.io/badge/Portfolio_%26_live_demos-alexuswingz.github.io-0b0d0c?style=for-the-badge&logo=googlechrome&logoColor=8FE6AE" alt="Portfolio and live demos"></a>
+  <a href="https://alexuskarljoaquin.com"><img src="https://img.shields.io/badge/Portfolio_%26_live_demos-alexuskarljoaquin.com-0b0d0c?style=for-the-badge&logo=googlechrome&logoColor=8FE6AE" alt="Portfolio and live demos"></a>
   <a href="https://apps.apple.com/app/id6789244062"><img src="https://img.shields.io/badge/App_Store-Cashn't-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Cashn't on the App Store"></a>
-  <a href="https://alexuswingz.github.io/assets/Alexus_Karl_Joaquin_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-8FE6AE?style=for-the-badge&logo=readdotcv&logoColor=0b0d0c" alt="CV"></a>
+  <a href="https://alexuskarljoaquin.com/assets/Alexus_Karl_Joaquin_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-8FE6AE?style=for-the-badge&logo=readdotcv&logoColor=0b0d0c" alt="CV"></a>
   <a href="mailto:alexuskarljoaquin@gmail.com"><img src="https://img.shields.io/badge/Email-alexuskarljoaquin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 Eight years of full-stack engineering, four of them leading five-engineer teams, and a habit of shipping the whole thing myself: product design, API, infrastructure, security, App Store review. Twice trusted to architect financing platforms from scratch. Twice led an engineering organization's move to AI-native development.
 
-Most of my work lives in private repositories. Instead of reading about it, **[try the real app bundles in your browser](https://alexuswingz.github.io)**, or buy the one on the App Store.
+Most of my work lives in private repositories. Instead of reading about it, **[try the real app bundles in your browser](https://alexuskarljoaquin.com)**, or buy the one on the App Store.
 
 <br>
 
@@ -66,7 +66,7 @@ Eight products, every one designed, built, deployed and operated by me alone. Th
 
 `React 19` `TypeScript` `Vite` `Capacitor 8` `Firebase Auth` `Express` `PostgreSQL` `Railway` `Recharts` `PWA` `Xcode / App Store Connect`
 
-**[▶ Try the live demo](https://alexuswingz.github.io/#projects)** &nbsp;·&nbsp; **[View on the App Store](https://apps.apple.com/app/id6789244062)**
+**[▶ Try the live demo](https://alexuskarljoaquin.com/#projects)** &nbsp;·&nbsp; **[View on the App Store](https://apps.apple.com/app/id6789244062)**
 
 <br>
 
@@ -111,7 +111,7 @@ Eight products, every one designed, built, deployed and operated by me alone. Th
 
 `React 19` `TypeScript (strict)` `Vite 8` `Tailwind CSS 4` `React Router 7` `Zustand` `Motion` `Capacitor 8` `Node` `PostgreSQL` `WebSockets` `OpenAI` `Railway`
 
-**[▶ Try the live demo](https://alexuswingz.github.io/#projects)**
+**[▶ Try the live demo](https://alexuskarljoaquin.com/#projects)**
 
 <br>
 
@@ -133,7 +133,7 @@ Eight products, every one designed, built, deployed and operated by me alone. Th
 
 `React 19` `TypeScript` `Vite` `Capacitor 8` `Express 5` `PostgreSQL` `WebSockets` `Firebase Auth` `CallKit (Swift)` `Railway` `App Store Connect`
 
-**[See it in the portfolio](https://alexuswingz.github.io/#projects)** &nbsp;·&nbsp; iOS build in App Store review
+**[See it in the portfolio](https://alexuskarljoaquin.com/#projects)** &nbsp;·&nbsp; iOS build in App Store review
 
 <br>
 
@@ -154,7 +154,7 @@ Eight products, every one designed, built, deployed and operated by me alone. Th
 
 `React 19` `TypeScript 6` `Vite 8` `Tailwind CSS 4` `Radix UI` `CVA` `MediaPipe (WASM)` `shadcn/ui` `Capacitor-ready`
 
-**[▶ Try the live demo](https://alexuswingz.github.io/#projects)** &nbsp;·&nbsp; **[Design-system reference](https://alexuswingz.github.io/demos/proof/)**
+**[▶ Try the live demo](https://alexuskarljoaquin.com/#projects)** &nbsp;·&nbsp; **[Design-system reference](https://alexuskarljoaquin.com/demos/proof/)**
 
 <br>
 
@@ -175,7 +175,7 @@ Eight products, every one designed, built, deployed and operated by me alone. Th
 
 `Python` `FastAPI` `httpx` `SQLite / PostgreSQL` `React` `TypeScript` `Tailwind CSS 4` `TanStack Query` `Railway`
 
-**[↗ Open the app](https://alexuswingz.github.io/demos/jobfinder/feed)**
+**[↗ Open the app](https://alexuskarljoaquin.com/demos/jobfinder/feed)**
 
 <br>
 
@@ -195,7 +195,7 @@ Eight products, every one designed, built, deployed and operated by me alone. Th
 
 `React 19` `Vite 7` `Tailwind CSS 4` `Framer Motion` `React Router 7` `QR codes` `Static hosting`
 
-**[↗ Open the live site](https://alexuswingz.github.io/demos/matteosbrew/)** &nbsp;·&nbsp; **[Source](https://github.com/alexuswingz/MatteosBrew)**
+**[↗ Open the live site](https://alexuskarljoaquin.com/demos/matteosbrew/)** &nbsp;·&nbsp; **[Source](https://github.com/alexuswingz/MatteosBrew)**
 
 <br>
 
@@ -215,7 +215,7 @@ Eight products, every one designed, built, deployed and operated by me alone. Th
 
 `Next.js 14` `TypeScript` `Tailwind CSS` `OpenAI` `PostgreSQL` `PWA` `Railway`
 
-**[See it in the portfolio](https://alexuswingz.github.io/#projects)** &nbsp;·&nbsp; **[Source](https://github.com/alexuswingz/LawSystem)**
+**[See it in the portfolio](https://alexuskarljoaquin.com/#projects)** &nbsp;·&nbsp; **[Source](https://github.com/alexuswingz/LawSystem)**
 
 <br>
 
@@ -305,8 +305,8 @@ Open to senior and lead full-stack roles, remote-first. Based in the Philippines
 
 <p>
   <a href="mailto:alexuskarljoaquin@gmail.com"><img src="https://img.shields.io/badge/alexuskarljoaquin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://alexuswingz.github.io"><img src="https://img.shields.io/badge/alexuswingz.github.io-0b0d0c?style=for-the-badge&logo=googlechrome&logoColor=8FE6AE" alt="Portfolio"></a>
-  <a href="https://alexuswingz.github.io/assets/Alexus_Karl_Joaquin_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-8FE6AE?style=for-the-badge&logo=readdotcv&logoColor=0b0d0c" alt="CV"></a>
+  <a href="https://alexuskarljoaquin.com"><img src="https://img.shields.io/badge/alexuswingz.github.io-0b0d0c?style=for-the-badge&logo=googlechrome&logoColor=8FE6AE" alt="Portfolio"></a>
+  <a href="https://alexuskarljoaquin.com/assets/Alexus_Karl_Joaquin_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-8FE6AE?style=for-the-badge&logo=readdotcv&logoColor=0b0d0c" alt="CV"></a>
 </p>
 
 <sub>Most repositories here are private because they are commercial products or client work. The portfolio runs the real builds in your browser; source walkthroughs are available on request.</sub>

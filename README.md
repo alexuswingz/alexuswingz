@@ -44,7 +44,7 @@ Most of my work lives in private repositories. Instead of reading about it, **[t
 
 ## Featured work
 
-Everything below was designed, built, deployed and operated by me alone.
+Eight products, every one designed, built, deployed and operated by me alone. The portfolio runs the real builds in your browser.
 
 <br>
 
@@ -115,15 +115,37 @@ Everything below was designed, built, deployed and operated by me alone.
 
 <br>
 
-### <img src="assets/proof-icon.svg" width="30" align="top"> &nbsp;Proof &nbsp;·&nbsp; <sub>AI photo studio · Design system + product</sub>
+### <img src="assets/ghostnt-icon.png" width="30" align="top"> &nbsp;Ghostn't &nbsp;·&nbsp; <sub>Dating app · iOS · API live on Railway</sub>
+
+> The dating app where ghosting is impossible. One hour a night, answers before faces, then you both choose: **hold or cut**.
+
+<p align="center">
+  <img src="assets/ghostnt-1.webp" width="19%" alt="Ghostn't room">&nbsp;
+  <img src="assets/ghostnt-2.webp" width="19%" alt="Ghostn't chat">&nbsp;
+  <img src="assets/ghostnt-3.webp" width="19%" alt="Ghostn't ticket">&nbsp;
+  <img src="assets/ghostnt-4.webp" width="19%" alt="Ghostn't lines">
+</p>
+
+- **A product with real rules**: the room opens for one hour a night, one answered question is your ticket in, you pick people by their answers, and held lines climb a reveal ladder: voices, first names, then faces. Miss two nights and the line flatlines.
+- **Live chat over WebSockets** with heartbeat reaping, server-authoritative countdowns with clock skew measured on every API call, and in-app calls with native CallKit integration.
+- **Backend built for cost and speed**: one pg pool with statement timeouts, every endpoint a single round-trip (CTEs, lateral joins, no N+1), keyset pagination, partial indexes, advisory locks to serialize competing line-opens.
+- Route-level code splitting (1–5 KB per screen), sockets only while a line is alive, reduced-motion support. Shipped through the same headless App Store pipeline as Cashn't.
+
+`React 19` `TypeScript` `Vite` `Capacitor 8` `Express 5` `PostgreSQL` `WebSockets` `Firebase Auth` `CallKit (Swift)` `Railway` `App Store Connect`
+
+**[See it in the portfolio](https://alexuswingz.github.io/#projects)** &nbsp;·&nbsp; iOS build in App Store review
+
+<br>
+
+### <img src="assets/proof-icon.svg" width="30" align="top"> &nbsp;Cinemi &nbsp;·&nbsp; <sub>AI photo studio · Design system + product</sub>
 
 > A mobile-first AI image studio driven by photography slash-commands. Type `/85mm` or `/filmgrain`, compare before and after, retouch faces on-device.
 
 <p align="center">
-  <img src="assets/proof-1.webp" width="19%" alt="Proof home">&nbsp;
-  <img src="assets/proof-2.webp" width="19%" alt="Proof create">&nbsp;
-  <img src="assets/proof-3.webp" width="19%" alt="Proof styles">&nbsp;
-  <img src="assets/proof-4.webp" width="19%" alt="Proof images">
+  <img src="assets/proof-1.webp" width="19%" alt="Cinemi home">&nbsp;
+  <img src="assets/proof-2.webp" width="19%" alt="Cinemi create">&nbsp;
+  <img src="assets/proof-3.webp" width="19%" alt="Cinemi styles">&nbsp;
+  <img src="assets/proof-4.webp" width="19%" alt="Cinemi images">
 </p>
 
 - **"Editorial After Dark" design system**: 60+ components, semantic tokens, dark and light themes, motion and safe-area tokens. The reference page reads token values live from the CSS, so docs cannot drift from code.
@@ -154,6 +176,46 @@ Everything below was designed, built, deployed and operated by me alone.
 `Python` `FastAPI` `httpx` `SQLite / PostgreSQL` `React` `TypeScript` `Tailwind CSS 4` `TanStack Query` `Railway`
 
 **[↗ Open the app](https://alexuswingz.github.io/demos/jobfinder/feed)**
+
+<br>
+
+### <img src="assets/matteosbrew-icon.png" width="30" align="top"> &nbsp;Matteo's Brew &nbsp;·&nbsp; <sub>Coffee shop website + digital menu · Client work</sub>
+
+> A warm, motion-rich website for a neighbourhood coffee shop, with a searchable digital menu customers open from a QR code at the counter.
+
+<p align="center">
+  <img src="assets/matteosbrew-1.webp" width="39%" alt="Matteo's Brew home">&nbsp;
+  <img src="assets/matteosbrew-2.webp" width="39%" alt="Matteo's Brew digital menu">&nbsp;
+  <img src="assets/matteosbrew-m1.webp" width="17%" alt="Matteo's Brew on a phone">
+</p>
+
+- Full-bleed video hero and animated sections for the story, menu preview, events, packages and location, all tuned for phones first.
+- **Digital menu**: 26 drinks across six categories with instant search and category filters, plus a QR-code section that drops customers straight into the menu from the table.
+- Ships as a static build, so hosting costs nothing and it loads instantly.
+
+`React 19` `Vite 7` `Tailwind CSS 4` `Framer Motion` `React Router 7` `QR codes` `Static hosting`
+
+**[↗ Open the live site](https://alexuswingz.github.io/demos/matteosbrew/)** &nbsp;·&nbsp; **[Source](https://github.com/alexuswingz/MatteosBrew)**
+
+<br>
+
+### <img src="assets/lawsystem-icon.png" width="30" align="top"> &nbsp;Alexus Legal AI &nbsp;·&nbsp; <sub>AI legal assistant · Philippine law · Next.js</sub>
+
+> A conversational AI legal companion for Filipinos: explains Philippine law in plain language, relates it to your situation and ends with concrete next steps.
+
+<p align="center">
+  <img src="assets/lawsystem-desktop.webp" width="56%" alt="Alexus Legal AI on desktop">&nbsp;
+  <img src="assets/lawsystem-1.webp" width="17%" alt="Alexus Legal AI welcome">&nbsp;
+  <img src="assets/lawsystem-2.webp" width="17%" alt="Alexus Legal AI conversation">
+</p>
+
+- **Streaming chat** on the Next.js App Router with a system prompt engineered for empathy: acknowledge the situation, tie answers to the specific case, explain statutes simply, always finish with actionable steps.
+- Covers the Constitution, Civil Code, Revised Penal Code, Labor Code, Family Code, property, tax, corporate and procedural law, with a clear "not legal advice" boundary.
+- Per-user conversation history in PostgreSQL with an auto-initialised schema, image upload for document analysis, and a PWA manifest so it installs like a native app.
+
+`Next.js 14` `TypeScript` `Tailwind CSS` `OpenAI` `PostgreSQL` `PWA` `Railway`
+
+**[See it in the portfolio](https://alexuswingz.github.io/#projects)** &nbsp;·&nbsp; **[Source](https://github.com/alexuswingz/LawSystem)**
 
 <br>
 
